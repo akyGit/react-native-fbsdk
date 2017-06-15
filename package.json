@@ -21,6 +21,6 @@
   ],
   "license": "Facebook Platform License",
   "peerDependencies": {
-    "react-native": ">=0.44.0"
+    "react-native": ">=0.39.2"
   }
 }
